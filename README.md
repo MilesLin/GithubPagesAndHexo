@@ -81,7 +81,7 @@ $ hexo g
 
 ![generate webiste](./image/gen.jpg)
 
-And the webiste static files will be generated in `public` folder. Our goal is push the content in public folder to github repository
+And the website static files will be generated in `public` folder. Our goal is push the content in public folder to github repository
 
 
 2. [Create a repository](https://github.com/new) with name `[username].github.io`. Example, `milessecond.github.io`
@@ -103,7 +103,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/milessecond/milessecond.github.io.git
 git push -u origin master
 ```
-*It requires username andd password at the first push*
+*It requires username and password at the first push*
 
 ![first time push](./image/first_push.jpg)
 
